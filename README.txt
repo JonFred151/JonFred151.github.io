@@ -1,0 +1,1 @@
+This is the README for my portfolio website. This website takes elements from some examples site that I like and combines it to be what I want it to be. it host picture and videos of project that I have worked on. As well show some of the skills that I have as a programmer. I am a full-stack programmer that is looking for my first time opportunity.
